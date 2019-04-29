@@ -1,4 +1,5 @@
 **一些我读过的书**
+#### （注：<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;> 表示推荐，<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;> 表示强烈推荐，<img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" width=20px; height=20px;> 表示差评）
 
 ### 2019
 * 计算机程序的构造与解析
@@ -15,12 +16,12 @@
 
 ### 2018
 * 平衡掌控者 - 游戏数值战斗设计
-* 大师谈游戏设计 - 创意与节奏
+* <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;> 大师谈游戏设计 - 创意与节奏
 * JavaScript设计模式与开发实践
 * 深入浅出Node.js
 * CSS权威指南
 
-![1](https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png) {:width="30px" height="30px"}
+
 
 ### 2017
 * The Little Schemer
