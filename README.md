@@ -3,7 +3,7 @@
 
 ### 2019
 * 计算机程序的构造与解析
-* 厚黑学
+* <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;>厚黑学
 * 大话设计模式
 * 算法导论
 * 游戏设计的100个原理
@@ -19,13 +19,11 @@
 * <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;> 大师谈游戏设计 - 创意与节奏
 * JavaScript设计模式与开发实践
 * 深入浅出Node.js
-* CSS权威指南
-
-
+* <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" width=20px; height=20px;>CSS权威指南
 
 ### 2017
 * The Little Schemer
-* JavaScript语言精粹
+* <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;>JavaScript语言精粹
 * JavaScript权威指南
 * JavaSciprt高级程序设计
 * 你不知道的JavaScript(上、中)
