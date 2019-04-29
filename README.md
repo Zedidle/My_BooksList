@@ -28,6 +28,3 @@
 * 你不知道的JavaScript(上、中)
 * 高性能JavaScript
 * 编写可维护的JavaScript
-
-### 2016
-* 
