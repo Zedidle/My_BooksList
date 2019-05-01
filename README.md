@@ -18,6 +18,7 @@
 * 游戏大师谈互动叙事
 
 ### 2018
+* 谜 [不确定]的游戏
 * 平衡掌控者 - 游戏数值战斗设计
 * <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;> 大师谈游戏设计 - 创意与节奏
 * JavaScript设计模式与开发实践
