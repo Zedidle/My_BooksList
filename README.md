@@ -5,6 +5,7 @@
 <hr>
 
 ### 2019
+* 游戏设计快乐之道
 * 计算机程序的构造与解析
 * <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" width=20px; height=20px;>厚黑学
 * 大话设计模式
